@@ -2,3 +2,10 @@
 
 /* font-family: 'Poppins', sans-serif;
 font-family: 'Roboto', sans-serif; */
+
+.btn-register {
+  background-image: linear-gradient(to bottom, white 0%, white 100%);
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
