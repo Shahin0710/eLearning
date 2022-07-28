@@ -8,5 +8,17 @@
 }
 
 .star-icon {
-  color: orange;
+  color: rgba(255, 106, 0, 0.825);
+}
+
+@media only screen and (max-width: 650px) {
+  .company-logo {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 650px) and (max-width: 992px) {
+  .company-logo {
+    display: none;
+  }
 }
